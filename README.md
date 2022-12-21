@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full-stack developer and architect operating from Karlshamn, Sweden 🇸🇪. A Coffe lover ☕️ and gets excited 😃 when I get the opportunity to learn 📚 and test out new techs 👨🏼‍🔬. 
+I'm a full-stack developer and architect operating from Karlshamn, Sweden 🇸🇪. A Coffe lover ☕️ that gets excited 😃 when I get the opportunity to learn 📚 and test out new tech 👨🏼‍🔬. 
 
 - 🏢 I'm currently working at Fortnox
 - 🌱 Currently learning all I can about Open Source
