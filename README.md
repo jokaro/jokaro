@@ -3,8 +3,8 @@
 I'm a full-stack developer and architect operating from Karlshamn, Sweden 🇸🇪. A Coffe lover ☕️ and gets excited 😃 when I get the opportunity to learn 📚 and test out new techs 👨🏼‍🔬. 
 
 - 🏢 I'm currently working at Fortnox
-- 🌱 Currenty learning all I can about Open Source
-
+- 🌱 Currently learning all I can about Open Source
+- 👾 Roguelike project in the plans
 
 ### 🛠️ Top of my Toolbox
 
